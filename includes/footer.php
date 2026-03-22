@@ -9,6 +9,8 @@
 <body>
 
 <footer>
+
+<div class="logo"><a href="/koureio/index.php"> <img src="/koureio/images/logo.jpg" alt=""></a > </div>
 <div class="footer">
     <p>&copy;Copyright By Glodou</p>
 </div>

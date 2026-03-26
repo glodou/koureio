@@ -11,7 +11,7 @@ include 'db/config.php';
 
 <div class="about-container">
     <?php 
-$ab="SELECT* FROM about";
+$ab="SELECT* FROM about ORDER BY about_id DESC LIMIT 1";
 $res=mysqli_query($conn,$ab);
 $row=mysqli_fetch_assoc($res);
     ?>

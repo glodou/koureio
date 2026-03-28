@@ -41,6 +41,17 @@ align-items: center;
 .col {
     flex: 1;
 }
+
+.col img {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+
 footer {
     background-color: rgb(125, 154, 163);
     padding: 20px;

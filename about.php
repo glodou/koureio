@@ -23,7 +23,7 @@ $row=mysqli_fetch_assoc($res);
     </div>
 
     <div class="col">
-        <img src="images/barber.jpg" width="70%">
+        <img src="/koureio/images/barber2.jpg" width="70%">
     </div>
 
 </div>
